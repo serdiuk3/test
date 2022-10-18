@@ -1,0 +1,15 @@
+.wrapper{
+    margin:0 auto;
+    width:800px;
+    display: flex;
+    flex-direction: column;
+    border: 0.5mm ridge #000;
+    padding: 20px;
+    background: white;
+}
+h1{
+        text-align: center;
+    }
+body{
+        background: #ccb3f8;
+    }
